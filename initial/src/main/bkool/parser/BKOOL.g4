@@ -8,37 +8,13 @@ options{
 	language=Python3;
 }
 
-program  : mptype 'main' LB RB LP body? RP EOF ;
-
-mptype: INTTYPE | VOIDTYPE ;
-
-body: funcall SEMI;
-
-exp: funcall | INTLIT ;
-
-funcall: ID LB exp? RB ;
-
-INTTYPE: 'int' ;
-
-VOIDTYPE: 'void'  ;
+program  : EOF ;
 
 ID: [a-zA-Z]+ ;
-
-INTLIT: [0-9]+;
-
-LB: '(' ;
-
-RB: ')' ;
-
-LP: '{';
-
-RP: '}';
-
-SEMI: ';' ;
 
 WS : [ \t\r\n]+ -> skip ; // skip spaces, tabs, newlines
 
 
-ERROR_CHAR: .;
+ERROR_CHAR: .{raise ErrorToken(self.text)};
 UNCLOSE_STRING: .;
 ILLEGAL_ESCAPE: .;
