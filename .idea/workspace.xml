@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="682570cf-5c8e-41a2-a645-8bebb79a46e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/initial/src/antlr-4.12.0-complete.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/bkool.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bkool.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/initial/target/BKOOL.interp" beforeDir="false" afterPath="$PROJECT_DIR$/initial/target/BKOOL.interp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/initial/target/BKOOLLexer.interp" beforeDir="false" afterPath="$PROJECT_DIR$/initial/target/BKOOLLexer.interp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/initial/target/BKOOLLexer.py" beforeDir="false" afterPath="$PROJECT_DIR$/initial/target/BKOOLLexer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/initial/target/BKOOLParser.py" beforeDir="false" afterPath="$PROJECT_DIR$/initial/target/BKOOLParser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/initial/target/BKOOLVisitor.py" beforeDir="false" afterPath="$PROJECT_DIR$/initial/target/BKOOLVisitor.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="641b6934-275b-4d8c-94b5-983eef3902e1" />
+        <option name="url" value="https://github.com/LiuQBinh/bkool.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectId" id="2M3qCYxv1bKGKNAhhn51cRUpVVz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="682570cf-5c8e-41a2-a645-8bebb79a46e0" name="Changes" comment="" />
+      <created>1677006488960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677006488960</updated>
+    </task>
+    <servers />
+  </component>
+</project>
