@@ -25,19 +25,19 @@ def main(argv):
         if len(argv) < 2:
             printUsage()
         elif argv[1] == 'LexerSuite':
-            from LexerSuite import LexerSuite
+            from test.LexerSuite import LexerSuite
             getAndTest(LexerSuite)
         elif argv[1] == 'ParserSuite':
-            from ParserSuite import ParserSuite
+            from test.ParserSuite import ParserSuite
             getAndTest(ParserSuite)
         elif argv[1] == 'ASTGenSuite':
-            from ASTGenSuite import ASTGenSuite
+            from test.ASTGenSuite import ASTGenSuite
             getAndTest(ASTGenSuite)
         elif argv[1] == 'CheckerSuite':
-            from CheckerSuite import CheckerSuite
+            from test.CheckerSuite import CheckerSuite
             getAndTest(CheckerSuite)
         elif argv[1] == 'CodeGenSuite':
-            from CodeGenSuite import CheckCodeGenSuite
+            from test.CodeGenSuite import CheckCodeGenSuite
             getAndTest(CheckCodeGenSuite)
         else:
             printUsage()
